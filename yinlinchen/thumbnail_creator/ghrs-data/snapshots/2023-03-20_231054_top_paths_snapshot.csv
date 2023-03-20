@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/yinlinchen/thumbnail_creator,23,6
+/yinlinchen/thumbnail_creator/blob/master/template.yaml,6,2
+/yinlinchen/thumbnail_creator/issues,5,2
+/yinlinchen/thumbnail_creator/issues/1,5,2
+/yinlinchen/thumbnail_creator/tree/master/apps,5,2
+/yinlinchen/thumbnail_creator/blob/master/apps/app.py,4,3
+/yinlinchen/thumbnail_creator/blob/master/apps/__init__.py,3,1
+/yinlinchen/thumbnail_creator/tree/master/sharedutils,3,1
+/yinlinchen/thumbnail_creator/tree/master/sharedutils/filetype,2,1
+/yinlinchen/thumbnail_creator/actions/workflows/github-repo-stats.yml,1,1
