@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/yinlinchen/thumbnail_creator,8,7
+/yinlinchen/thumbnail_creator/blob/master/apps/app.py,5,2
+/yinlinchen/thumbnail_creator/tree/master/apps,5,2
+/yinlinchen/thumbnail_creator/blob/master/apps/__init__.py,3,1
+/yinlinchen/thumbnail_creator/blob/master/apps/requirements.txt,2,1
+/yinlinchen/thumbnail_creator/blob/master/template.yaml,2,1
+/yinlinchen/thumbnail_creator/commits,2,1
+/yinlinchen/thumbnail_creator/actions,1,1
+/yinlinchen/thumbnail_creator/actions/caches,1,1
+/yinlinchen/thumbnail_creator/actions/workflows/close_inactivate_issues.yml,1,1
